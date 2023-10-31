@@ -6,6 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ffb6c1"
     tools:context=".MainActivity">
 
     <View
@@ -49,7 +50,8 @@
         android:layout_height="37dp"
         android:text="Pregnancy Diet"
         tools:layout_editor_absoluteX="131dp"
-        tools:layout_editor_absoluteY="389dp" />
+        tools:layout_editor_absoluteY="389dp"
+        tools:backgroundTint="#BD7093"/>
 
     <Button
         android:id="@+id/button2"
@@ -57,7 +59,8 @@
         android:layout_height="37dp"
         android:text="PCOS Diet"
         tools:layout_editor_absoluteX="122dp"
-        tools:layout_editor_absoluteY="651dp" />
+        tools:layout_editor_absoluteY="651dp"
+        tools:backgroundTint="#BD7093"/>
 
 
 
