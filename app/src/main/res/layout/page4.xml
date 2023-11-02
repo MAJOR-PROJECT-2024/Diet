@@ -19,7 +19,7 @@
                 android:id="@+id/top_view"
                 android:layout_width="match_parent"
                 android:layout_height="98dp"
-                android:background="@drawable/bg_view2" />
+                android:background="@drawable/bg_view1" />
 
 
             <TextView
@@ -78,7 +78,7 @@
                         android:layout_marginVertical="60dp"
                         android:text="          Monday"
                         android:textSize="25sp"
-                        android:textStyle="italic|bold"
+                        android:textStyle="italic|bold"/>
                 </androidx.cardview.widget.CardView>
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
@@ -160,7 +160,7 @@
                         android:layout_marginVertical="60dp"
                         android:text="          Thursday"
                         android:textSize="25sp"
-                        android:textStyle="italic|bold"
+                        android:textStyle="italic|bold"/>
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
@@ -188,7 +188,7 @@
                         android:layout_marginVertical="60dp"
                         android:text="          Friday"
                         android:textSize="25sp"
-                        android:textStyle="italic|bold"
+                        android:textStyle="italic|bold"/>
                 </androidx.cardview.widget.CardView>
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
@@ -215,7 +215,7 @@
                         android:layout_marginVertical="60dp"
                         android:text="          Saturday"
                         android:textSize="25sp"
-                        android:textStyle="italic|bold"
+                        android:textStyle="italic|bold"/>
                 </androidx.cardview.widget.CardView>
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
@@ -242,7 +242,7 @@
                         android:layout_marginVertical="60dp"
                         android:text="          Sunday"
                         android:textSize="25sp"
-                        android:textStyle="italic|bold"
+                        android:textStyle="italic|bold"/>
                 </androidx.cardview.widget.CardView>
 
 
