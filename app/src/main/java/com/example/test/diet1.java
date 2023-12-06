@@ -5,20 +5,20 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class diet1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_diet2);
     }
     public void PregnancyDiet(View view) {
-        Intent intent = new Intent(this, MainActivity2.class);
+        Intent intent = new Intent(this, diet2.class);
         startActivity(intent);
     }
 
     public void PCOSDiet(View view) {
-        Intent intentt = new Intent(this, MainActivity3.class);
+        Intent intentt = new Intent(this, diet3.class);
         startActivity(intentt);
     }
 }
